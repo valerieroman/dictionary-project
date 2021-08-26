@@ -14,7 +14,7 @@ function App() {
       </main>
       <footer className="App-footer">
         <small>
-      This project is coded by <a href="https://www.linkedin.com/in/valerie-rom%C3%A1n-de-jes%C3%BAs-189069185/"target="_blank" rel="noreferrer">Valerie Roman De Jesus</a> and is <a href="https://github.com/valerieroman/dictionary-project" target="_blank"rel="noreferrer"> open sourced on GitHub</a> and <a href="https://serene-mcnulty-1eb989.netlify.app/" target="_blank" rel="noreferrer"> hosted on Netlify.</a>
+      This project is coded by <a href="https://www.linkedin.com/in/valerie-roman-dejesus/"target="_blank" rel="noreferrer">Valerie Roman De Jesus</a> and is <a href="https://github.com/valerieroman/dictionary-project" target="_blank"rel="noreferrer"> open sourced on GitHub</a> and <a href="https://serene-mcnulty-1eb989.netlify.app/" target="_blank" rel="noreferrer"> hosted on Netlify.</a>
         </small>
       </footer>
     </div>
